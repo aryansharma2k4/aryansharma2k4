@@ -9,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/aryan22sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryan22sharma" height="30" width="40" /></a>
+<a href="https://twitter.com/aryan22sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryan22sharma" height="30" width="40     " /></a>
 <a href="https://linkedin.com/in/aryan-sharma-410a5b276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-sharma-410a5b276" height="30" width="40" /></a>
-<a href="https://instagram.com/aryan__sharma__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryan__sharma__" height="30" width="40" /></a>
+<a href="https://instagram.com/aryan__sharmaa__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryan__sharma__" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aryansharma2k4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aryansharma2k4" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/aryansharma2k4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aryansharma2k4" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aryansharma2k4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aryansharma2k4" height="30" width="40" /></a>
